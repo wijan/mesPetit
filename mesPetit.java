@@ -1,7 +1,7 @@
 package practicaSubVersion;
 import java.util.Scanner;
 //Comentari a projecte 1
-//2n comentari a projecte 1
+//Comentari a linia 4 projecte1
 public class numerosPetit{
 
 	public static void main(String[] args){
